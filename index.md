@@ -254,6 +254,7 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 Roshan Bharath-Das, Marc X. Makkes, Alexandru Uta, Lin Wang, Henri Bal: <a href="pubs/cowbird_extended.pdf">A Programming Environment for Heterogeneous Stream Analytics</a>, 
 2019, IEEE International Conference on Big Data (IEEE BigData), December 9-12, Los Angeles, USA.
 
+<p>
 <li>
 Roshan Bharath-Das, Marc X. Makkes, Alexandru Uta, Lin Wang, Henri Bal: <a href="pubs/aves.pdf">Aves: A Decision Engine for Energy-efficient Stream Analytics across Low-power Devices</a>, 
 2019, IEEE International Conference on Big Data (IEEE BigData), December 9-12, Los Angeles, USA.
