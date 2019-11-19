@@ -1,0 +1,202 @@
+@charset "iso-8859-15";
+
+html, body {
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-top: 0px;
+   margin-bottom: 5px;
+   background-color: #D3D3D3;
+ 
+   background-repeat: no-repeat;
+}
+
+/* Don't put <input> in this list, on some browsers it will become white text on white. */
+html, body, div, p, ul, li, table, td, tr, dt, c1, c2, c3, c4, c5, c6, c7, c8, c9 {
+   color: #000000;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+html, body, table, div, p
+{
+   font-size: 14px;
+}
+
+.vubgcolor 
+{
+   background-color: #0B215A;
+}
+
+a:link {
+   color: #0000CD; 
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+a:visited {
+   color: #0000CD; 
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+   color: #0000CD;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Headers and bold in orange. */
+h1, h2, h3, h4, h5, h6, b, strong {
+   color: #777;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+h1, .h1size {
+   font-size: 24px;
+}
+
+h2, .h2size {
+   font-size: 20px;
+}
+
+h3, .h3size {
+   font-size: 16px;
+}
+
+h4, h5, h6, .h4size, .h5size, .h6size {
+   font-size: 14px;
+}
+
+/* jms */
+/* Colors for the footer, basically links in a one-row table. */
+td.footer {
+/*   font-size: 12px; */
+   color: #6666CC; 
+   background-color: #F7BD42;
+   font-weight: bold;
+   text-align: center;
+}
+
+a.footer:link {
+/*   font-size: 12px; */
+   color: #6666CC; 
+   text-decoration: none;
+}
+
+a.footer:visited {
+/*   font-size: 12px; */
+   color: #6666CC; 
+   text-decoration: none;
+}
+
+a.footer:hover {
+/*   font-size: 12px; */
+   color: #FFFFCC;
+   text-decoration: none;
+}
+
+/* Boilerplate stuff. */
+
+div.boilerplate {
+   font-size: 12px;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   color: #CCCCCC;
+   font-weight: normal;
+   text-align: center;
+   text-decoration: none;
+}
+
+b.boilerplate {
+   font-size: 12px;
+   color: #FFFFFF;
+   font-weight: normal;
+}
+
+a.boilerplate:link {
+   font-size: 12px;
+   color: #4AE7FF; 
+}
+
+a.boilerplate:visited {
+   font-size: 12px;
+   color: #CCCC99; 
+}
+
+a.boilerplate:hover {
+   font-size: 12px;
+   color: #FFFFBB;
+}
+
+
+/* Lines and stuff. */
+hr
+{
+    height: 2px;
+    background-color: #5694CE; 
+    border: 1px solid  #5694CE; /* VU blauw. */
+}
+
+img.icon
+{
+    vertical-align:middle;
+    float:none;
+}
+
+img.leftfloat
+{
+    vertical-align:top;
+    float:left;
+}
+
+img.rightfloat
+{
+    vertical-align:top;
+    float:right;
+}
+
+.righttoptext
+{   /* Use this class to place an image on the right top of the page. */
+    /* Lines nice with a <h3>. E.g., <div class="righttoptext">HELLO</div> */
+    position:absolute;
+    left:655px;
+    bottom:auto;
+    right:auto;
+    top:24px;
+}
+
+.banner
+{   /* Use this class to place an image on the right top of the page. */
+    /* More specific a 468x60 image. */
+    position:absolute;
+    left:412px;
+    bottom:auto;
+    right:auto;
+    top:24px;
+}
+
+.center
+{
+    text-align: center;
+}
+
+
+.right
+{
+    text-align: right;
+}
+
+.left
+{
+    text-align: left;
+}
+
+/* notavailable stuff. */
+.notavailable
+{
+    color: #999999; 
+    text-decoration: line-through;
+} 
+
+/* Hidden sections, for displaying a waring if CSS are unavailable. */
+.hidden 
+{
+    visibility:hidden
+}
+
