@@ -83,11 +83,11 @@ Room no.: 138
 
 <h2 id="info">General Information</h2>
 
-<p>I am an assistant professor at <a href="https://liacs.leidenuniv.nl">LIACS, Leiden University</a>, working in the Computer Systems group led by Harry Wijshoff.
+<p>I am an assistant professor at <a href="https://liacs.leidenuniv.nl">LIACS, Leiden University</a>, working in the Computer Systems group led by prof.dr. Harry Wijshoff.
 
-<p>Previously, was a postdoctoral researcher in the <a href="http://www.cs.vu.nl/en/research/computer-systems/index.aspx">Computer Systems
-Section</a> at the Department of Computer Science of the Vrije Universiteit Amsterdam. Currently, I am working in the
-<a href="https://atlarge-research.com">Massivizing Computer Systems Group</a>, led by prof.dr.ir. <a href="http://www.ds.ewi.tudelft.nl/~iosup/">Alexandru Iosup</a>. </p>
+<p>Previously, I was a postdoctoral researcher in the <a href="http://www.cs.vu.nl/en/research/computer-systems/index.aspx">Computer Systems
+Section</a> at the Department of Computer Science of the Vrije Universiteit Amsterdam. Currently, I am a guest researcher in the 
+<a href="https://atlarge-research.com">Massivizing Computer Systems</>a Group, led by prof.dr.ir. <a href="http://www.ds.ewi.tudelft.nl/~iosup/">Alexandru Iosup</a>. </p>
 
 <p> In the summer of 2019, I was a research visitor in the <a href="https://www.flux.utah.edu">Flux Research Group</a> at the <a href="https://www.utah.edu">University of Utah</a>, working closely with <a href="https://ricci.io">dr. Robert Ricci</a>.
 
