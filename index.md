@@ -85,7 +85,7 @@ Room no.: 138
 
 <p>I am an assistant professor at <a href="https://liacs.leidenuniv.nl">LIACS, Leiden University</a>, working in the Computer Systems group led by Harry Wijshoff.
 
-<p>I am a postdoctoral researcher in the <a href="http://www.cs.vu.nl/en/research/computer-systems/index.aspx">Computer Systems
+<p>Previously, was a postdoctoral researcher in the <a href="http://www.cs.vu.nl/en/research/computer-systems/index.aspx">Computer Systems
 Section</a> at the Department of Computer Science of the Vrije Universiteit Amsterdam. Currently, I am working in the
 <a href="https://atlarge-research.com">Massivizing Computer Systems Group</a>, led by prof.dr.ir. <a href="http://www.ds.ewi.tudelft.nl/~iosup/">Alexandru Iosup</a>. </p>
 
@@ -113,7 +113,13 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <ol>
 <p>
 <li>
-<strong>Google, 2018</strong> - PI, Granular Graph Processing, $5,000 grant for usage in the Google Cloud. Projecton assessing the impact of FaaS and Serverless paradigms on Graph Analytics.
+<strong>SURFsara, 2019-2020</strong> - PI, DLPerf, Pilot Project for 500K Cartesius Cluster hours, equivalent to approx. &euro;500,000. Project on studying the performance bottlenecks of Deep-Learning Workloads.
+<p>
+<li>
+<strong>SURFsara, 2019</strong> - PI, Granular Graph Processing, 50K compute hours for usage in the SURFsara HPCCloud; Project on assessing the impact of FaaS and Serverless paradigms on Graph Analytics.
+<p>
+<li>
+<strong>Google, 2018</strong> - PI, Granular Graph Processing, $5,000 grant for usage in the Google Cloud. Project on assessing the impact of FaaS and Serverless paradigms on Graph Analytics.
 <p>
 <li>
 <strong>SURFsara, 2018</strong> - PI,  BDCloudVar,  70K  compute  hours  in  the  SURFsara  cloud,  accounting &euro;70,000. Project on studying the effects of performance variability on Big Data workloads.
@@ -148,6 +154,9 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <p><strong>Conference/Workshop Organization</strong>
 <table>
 <tr>
+<td><strong>Co-Chair</strong></td><td><strong>HotCloudPerf</strong></td><td>3rd Workshop on Hot Topics in Cloud Computing</td><td>2020</td>
+</tr>
+<tr>
 <td><strong>Junior Program Chair</strong></td><td><strong>ISPDC</strong></td><td>International Symposium on Parallel and Distributed Computing</td><td>2019</td>
 </tr>
 <tr>
@@ -164,7 +173,7 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <td><strong>ICPE</strong></td><td>International Conference on Performance Engineering</td><td>2020</td>
 </tr>
 <tr>
-<td><strong>CCGrid</strong></td><td>International Symposium on Cluster, Cloud and Grid Computing</td><td>2019</td>
+<td><strong>CCGrid</strong></td><td>International Symposium on Cluster, Cloud and Grid Computing</td><td>2019, 2020</td>
 </tr>
 <tr>
 <td><strong>CLUSTER</strong></td><td>International Conference on Cluster Computing</td><td>2019</td>
@@ -252,6 +261,17 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <h2 id="publications">Publications</h2>
 
 <ol>
+
+<p>
+<li>
+Alexandru Uta, Alexandru Custura, Dmitry Duplyakin, Ivo Jimenez, Jan Rellermeyer, Carlos Maltzahn, Robert Ricci, Alexandru Iosup:
+<a href="pubs/nsdi_perfvar.pdf">Is Big Data Performance Reproducible In Modern Cloud Networks?</a>, 2020, USENIX Networked Systems
+Design and Implementation (NSDI), February 25-27, Santa Clara, USA.
+
+<p>
+<li> Ahmed Musaafir, Henk Dreuning, Alexandru Uta, Ana Varbanescu: <a href="pubs/graph_scaling.pdf">A Sampling-Based Tool for Scaling Graph Datasets</a>, 2020, ACM International
+Conference on Performance Engineering (ICPE), 20-25 April, Edmonton, Canada.
+
 <p>
 <li>
 Roshan Bharath-Das, Marc X. Makkes, Alexandru Uta, Lin Wang, Henri Bal: <a href="pubs/cowbird_extended.pdf">A Programming Environment for Heterogeneous Stream Analytics</a>, 
