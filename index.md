@@ -14,7 +14,7 @@
 	<table>
 	<tr>
   <td>
-	<img src="VUlogo.svg" height="110" border="0" alt="logo"><br />
+	<img src="ULeidenLogo.png" height="110" border="0" alt="logo"><br />
   </td>
   <td>
   <br><br><br>
@@ -62,14 +62,15 @@
 <td> <img src="image1.jpg" width=200> </td>
 <td> 
 dr. Alexandru Uta<br>
-Vrije Universiteit Amsterdam<br>
-De Boelelaan 1081A<br> 
-1081HV Amsterdam<br>
+LIACS, Leiden University<br>
+Snellius building<br>
+Niels Bohrweg 1<br> 
+2333 CA Leiden<br>
 The Netherlands <br>
 <br>
 Email: Initial.Lastname@vu.nl <br>
 <br>
-Room no.: P430
+Room no.: 138
 <br>
 <br>
 <hr>
@@ -81,6 +82,8 @@ Room no.: P430
  <hr/>
 
 <h2 id="info">General Information</h2>
+
+<p>I am an assistant professor at <a href=""https://liacs.leidenuniv.nl>LIACS, Leiden University</a>, working in the Computer Systems group led by Harry Wijshoff.
 
 <p>I am a postdoctoral researcher in the <a href="http://www.cs.vu.nl/en/research/computer-systems/index.aspx">Computer Systems
 Section</a> at the Department of Computer Science of the Vrije Universiteit Amsterdam. Currently, I am working in the
