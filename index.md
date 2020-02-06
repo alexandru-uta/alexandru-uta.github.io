@@ -59,7 +59,7 @@
 <table>
 
 <tr>
-<td> <img src="image1.jpg" width=200> </td>
+<td> <img src="image1.JPG" width=200> </td>
 <td> 
 dr. Alexandru Uta<br>
 LIACS, Leiden University<br>
