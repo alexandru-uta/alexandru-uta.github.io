@@ -29,6 +29,9 @@
 <table>
 <tr>
 <td>
+<a href="#news">Info</a>
+</td>
+<td>
 <a href="#info">Info</a>
 </td>
 <td>
@@ -81,6 +84,23 @@ Room no.: 138
 
  <hr/>
 
+<h2 id="news">Recent News</h2>
+<ol>
+<p>
+<li>
+I have been awarded an <strong>NWO VENI</strong> grant on my project "Practical Performance Reproducibility in Cloud Systems Research" for &euro;250,000. 
+</ol>
+	
+<p>
+<li>
+Our paper on collecting traces from the SURFsara clusters has been published in USENIX ;login: magazine. The dataset we open-sourced can be found in our <a href="https://zenodo.org/record/3878143#.X7pdUy9h3UI">Zenodo</a> repository. Many Thanks SURFsara and VU for the collaboration.
+
+<p>
+<li>
+Our paper on running <a href="https://www.usenix.org/system/files/nsdi20-paper-uta.pdf">reproducible big data experiments in clouds</a> has been accepted and <a href="https://www.youtube.com/watch?v=RXEvmIYXoOI&feature=emb_logo">presented</a> at NSDI in Feb 2020. Slides can be found <a href="https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_uta.pdf">here</a>. Many thanks to the teams at U of Utah and UC Santa Cruz for the help.
+
+</ol>
+	
 <h2 id="info">General Information</h2>
 
 <p>I am an assistant professor at <a href="https://liacs.leidenuniv.nl">LIACS, Leiden University</a>, working in the Computer Systems group led by prof.dr. Harry Wijshoff.
