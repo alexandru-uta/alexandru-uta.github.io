@@ -248,7 +248,7 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <hr>
 
 <h2 id="education">Education</h2>
-<p><strong>Co-Teacher</strong>
+<p><strong>Teacher</strong>
 <table>
 <tr>
 <td>Leiden University: MSc Distributed Data Processing Systems</td><td>2020-present</td>
@@ -256,6 +256,9 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <tr>
 <td>Leiden University: BSc Compiler Construction</td><td>2020-present</td>
 </tr>	
+</table>
+<p><strong>Co-Teacher</strong>
+<table>
 <tr>
 <td>VU Amsterdam: BSc Systems Architecture</td><td>2017-2019</td>
 </tr>
