@@ -114,7 +114,7 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <ol>
 <p>
 <li>
-<strong>NWO VENI</strong> - PI, Practical Performance Reproducibility in Cloud Systems Research -- &euro;250,000. Project on studying how to achieve reproducible performance when performing experiments in clouds.
+<strong>NWO VENI</strong> - PI, Practical Performance Reproducibility in Cloud Systems Research -- &euro;250,000. Project on studying how to achieve reproducible performance when running experiments in clouds.
 <p>
 <p>
 <li>
