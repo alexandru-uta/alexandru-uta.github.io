@@ -100,6 +100,9 @@ Our paper on running <a href="https://www.usenix.org/system/files/nsdi20-paper-u
 
 </ol>
 	
+<p>	
+<hr/>
+
 <h2 id="info">General Information</h2>
 
 <p>I am an assistant professor at <a href="https://liacs.leidenuniv.nl">LIACS, Leiden University</a>, working in the Computer Systems group led by prof.dr. Harry Wijshoff.
