@@ -89,7 +89,6 @@ Room no.: 138
 <p>
 <li>
 I have been awarded an <strong>NWO VENI</strong> grant on my project "Practical Performance Reproducibility in Cloud Systems Research" for &euro;250,000. 
-</ol>
 	
 <p>
 <li>
