@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td>
-<a href="#news">Info</a>
+<a href="#news">News</a>
 </td>
 <td>
 <a href="#info">Info</a>
