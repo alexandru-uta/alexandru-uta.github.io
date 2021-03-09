@@ -313,6 +313,9 @@ projects I supervise, please see my <a href="#projects">Projects</a> or <a href=
 <h2 id="publications">Publications</h2>
 
 <ol>
+<p>
+<li>
+Yuxuan Zhao, Dmitry Duplyakin, Robert Ricci, Alexandru Uta: <a href="pubs/_HotCloudPerf21__Cloud_Performance_Variability_Prediction.pdf">Cloud Performance Variability Prediction</a>. In HotCloudPerf 2021, co-located with ICPE, Rennes, France.	
 
 <p>
 <li>
