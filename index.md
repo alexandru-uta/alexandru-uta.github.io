@@ -86,6 +86,11 @@ Room no.: 138
 
 <h2 id="news">Recent News</h2>
 <ol>
+	
+<p>
+<li>
+Since November 2020, I am also an Amazon Visiting Academic.
+
 <p>
 <li>
 I have been awarded an <strong>NWO VENI</strong> grant on my project "Practical Performance Reproducibility in Cloud Systems Research" for &euro;250,000. 
